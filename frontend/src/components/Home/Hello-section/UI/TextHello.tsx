@@ -6,7 +6,7 @@ import ButtonDownloadCV from './ButtonDownloadCV'
 
 const TextHello = () => {
   return (
-    <div className='flex flex-col justify-start items-start w-3/4 font-semibold'>
+    <div className='flex flex-col justify-start items-start w-2/5 font-semibold'>
       <div>
         <h1 className='text-5xl'>Hello, it's me</h1>
         <div>
